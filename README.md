@@ -3,7 +3,7 @@
 </p>
 
 <h1>Resolving Tickets in osTicket</h1>
-In this lab I go through the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+In this lab you go through the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 <h2>Lifecycle Stages</h2>
 
