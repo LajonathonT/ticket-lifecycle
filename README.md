@@ -36,6 +36,3 @@ When resolving tickets, it is important to have strong communication. One has to
 </p>
 <br />
 
-<h2>Lessons Learned</h2>
-
-The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
